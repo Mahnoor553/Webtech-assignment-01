@@ -15,6 +15,7 @@ This repository contains my HTML based resume assignment. It includes my educati
  Completed Intermediate (FSc)
  
  BS Information Technology
+ 
  Currently Studying at Pumjab Univeristy
 
 3. Technical Skills
